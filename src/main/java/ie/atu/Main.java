@@ -18,6 +18,8 @@ public class Main {
 
         Ship myShip = new Ship("Titanic", "1985", "32");
         System.out.println(myShip.toString());
+        Ferry myFerry = new Ferry(" Atlantic Way point","24", "1998");
+        System.out.println(myFerry.toString());
     }
 
 }
