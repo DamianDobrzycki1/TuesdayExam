@@ -3,7 +3,6 @@ package ie.atu;
 public class Ferry extends Ship{
     private String passengerNumber;
     private String ferryName;
-
     private String yearBuilt;
 
     public Ferry(){
